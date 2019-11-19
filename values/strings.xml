@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">moviesproject</string>
+    <string name="action_settings">Settings</string>
+    <string name="rating">rating</string>
+    <string name="actors">actors</string>
+    <string name="title">title</string>
+</resources>
